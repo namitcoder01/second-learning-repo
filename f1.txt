@@ -3,3 +3,4 @@ second bug occur in file 1
 third bug
 fixed again
 new fixed
+bug fixed 
