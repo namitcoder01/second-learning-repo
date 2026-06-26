@@ -1,3 +1,4 @@
 file 1 for the bugs
 second bug occur in file 1
 third bug
+bug fixed 
